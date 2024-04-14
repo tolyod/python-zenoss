@@ -1,3 +1,4 @@
 httmock>=1.0.7
 requests>=2.1.0
 wsgiref>=0.1.2
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
